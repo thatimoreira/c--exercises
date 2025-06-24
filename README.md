@@ -1,2 +1,2 @@
-# c# exercises
+# C# exercises
 Learning C#
